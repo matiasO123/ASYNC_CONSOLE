@@ -1,0 +1,14 @@
+D:\Portfolio\asincronismo e hilos\Threads\Threads\bin\Debug\net8.0\Threads.exe
+D:\Portfolio\asincronismo e hilos\Threads\Threads\bin\Debug\net8.0\Threads.deps.json
+D:\Portfolio\asincronismo e hilos\Threads\Threads\bin\Debug\net8.0\Threads.runtimeconfig.json
+D:\Portfolio\asincronismo e hilos\Threads\Threads\bin\Debug\net8.0\Threads.dll
+D:\Portfolio\asincronismo e hilos\Threads\Threads\bin\Debug\net8.0\Threads.pdb
+D:\Portfolio\asincronismo e hilos\Threads\Threads\obj\Debug\net8.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\asincronismo e hilos\Threads\Threads\obj\Debug\net8.0\Threads.AssemblyInfoInputs.cache
+D:\Portfolio\asincronismo e hilos\Threads\Threads\obj\Debug\net8.0\Threads.AssemblyInfo.cs
+D:\Portfolio\asincronismo e hilos\Threads\Threads\obj\Debug\net8.0\Threads.csproj.CoreCompileInputs.cache
+D:\Portfolio\asincronismo e hilos\Threads\Threads\obj\Debug\net8.0\Threads.dll
+D:\Portfolio\asincronismo e hilos\Threads\Threads\obj\Debug\net8.0\refint\Threads.dll
+D:\Portfolio\asincronismo e hilos\Threads\Threads\obj\Debug\net8.0\Threads.pdb
+D:\Portfolio\asincronismo e hilos\Threads\Threads\obj\Debug\net8.0\Threads.genruntimeconfig.cache
+D:\Portfolio\asincronismo e hilos\Threads\Threads\obj\Debug\net8.0\ref\Threads.dll

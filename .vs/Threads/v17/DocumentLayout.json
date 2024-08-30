@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Portfolio\\asincronismo e hilos\\Threads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C216B644-7E4D-4B56-98AC-03E0C51688E5}|Threads\\Threads.csproj|d:\\portfolio\\asincronismo e hilos\\threads\\threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C216B644-7E4D-4B56-98AC-03E0C51688E5}|Threads\\Threads.csproj|solutionrelative:threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C216B644-7E4D-4B56-98AC-03E0C51688E5}|Threads\\Threads.csproj|d:\\portfolio\\asincronismo e hilos\\threads\\threads\\the_looper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C216B644-7E4D-4B56-98AC-03E0C51688E5}|Threads\\Threads.csproj|solutionrelative:threads\\the_looper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C216B644-7E4D-4B56-98AC-03E0C51688E5}|Threads\\Threads.csproj|d:\\portfolio\\asincronismo e hilos\\threads\\threads\\barman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C216B644-7E4D-4B56-98AC-03E0C51688E5}|Threads\\Threads.csproj|solutionrelative:threads\\barman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Barman.cs",
+              "DocumentMoniker": "D:\\Portfolio\\asincronismo e hilos\\Threads\\Threads\\Barman.cs",
+              "RelativeDocumentMoniker": "Threads\\Barman.cs",
+              "ToolTip": "D:\\Portfolio\\asincronismo e hilos\\Threads\\Threads\\Barman.cs",
+              "RelativeToolTip": "Threads\\Barman.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:56:02.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "The_Looper.cs",
+              "DocumentMoniker": "D:\\Portfolio\\asincronismo e hilos\\Threads\\Threads\\The_Looper.cs",
+              "RelativeDocumentMoniker": "Threads\\The_Looper.cs",
+              "ToolTip": "D:\\Portfolio\\asincronismo e hilos\\Threads\\Threads\\The_Looper.cs",
+              "RelativeToolTip": "Threads\\The_Looper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:05:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Portfolio\\asincronismo e hilos\\Threads\\Threads\\Program.cs",
+              "RelativeDocumentMoniker": "Threads\\Program.cs",
+              "ToolTip": "D:\\Portfolio\\asincronismo e hilos\\Threads\\Threads\\Program.cs",
+              "RelativeToolTip": "Threads\\Program.cs",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAAwIYBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:56:29.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
